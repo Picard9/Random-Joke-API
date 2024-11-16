@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "joke": "Why did the scarecrow win an award?",
+        "punchline": "Because he was outstanding in his field."
+    },
+    {
+        "id": 2,
+        "joke": "Why did the bicycle fall over?",
+        "punchline": "Because it was two-tired."
+    },
+    {
+        "id": 3,
+        "joke": "Why did the math book look sad?",
+        "punchline": "It had too many problems."
+    },
+    {
+        "id": 4,
+        "joke": "What did one ocean say to the other ocean?",
+        "punchline": "Nothing, they just waved."
+    },
+    {
+        "id": 5,
+        "joke": "Why can't you give Elsa from Frozen a balloon?",
+        "punchline": "Because she’ll let it go!"
+    }
+]
